@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+body {
+    font-family: 'Lobster Two', cursive;
+
+    margin: auto;
+    
+}
+
+
+
+.input-style {
+    text-align: center;
+}
+
+.textArea {
+    width: 50%;
+    margin: auto;
+    border: 3px solid black;
+    display: block;
+    padding: 2rem;
+    border-radius: 1rem;
+
+}
+
+#output {
+    border: 3px solid black;
+    height: 7vh;
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading-color {
+    background-color: burlywood;
+    height: 5vh;
+    padding: 1rem 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.output-text {
+    font-size: larger;
+    text-align: center;
+    padding: 1rem;
+}
+
+#btn-translate {
+    background-color: brown;
+    padding: 0.5rem;
+    margin-top: 1.5rem;
+    border-radius: 1rem;
+    width: 90px;
+}
+
+.button-style {
+    text-align: center;
+}
+
+.imager .image-styling {
+    max-width: 100%;
+    max-width: 150px;
+
+}
+
+.imager {
+    text-align: center;
+}
